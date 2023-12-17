@@ -1,0 +1,12 @@
+
+  
+.start {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ToPosition {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
